@@ -7,4 +7,4 @@ For my linux machine as well, it was working using cable.
 
 
 The detailed configuration steps are in
-[Setup Configuration](#https://github.com/pralayaPanta/keychron-k3-linux-configuration/blob/main/config-steps)
+[Setup Configuration](https://github.com/pralayaPanta/keychron-k3-linux-configuration/blob/main/config-steps)
