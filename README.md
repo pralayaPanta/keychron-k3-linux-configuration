@@ -6,4 +6,5 @@ I bought Keyboard Keychron K3 recently, it did not work out of the box for my Po
 For my linux machine as well, it was working using cable.
 
 
-The detailed configuration steps are in: https://github.com/pralayaPanta/keychron-k3-linux-configuration/blob/main/config-steps
+The detailed configuration steps are in
+[Setup Configuration](#config-steps)
