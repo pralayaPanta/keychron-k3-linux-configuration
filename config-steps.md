@@ -129,4 +129,4 @@ Now to go to
 `sudo nano /etc/rc.local`
 and copy the code from above to the text editor.
 
-
+From: https://askubuntu.com/questions/848698/wake-up-from-suspend-using-wireless-usb-keyboard-or-mouse-for-any-linux-distro
